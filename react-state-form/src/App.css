@@ -1,0 +1,12 @@
+.App {
+  max-width: 1280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input {
+  display: block;
+  margin-top: 1rem;
+}
